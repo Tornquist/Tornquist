@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, I'm Nathan.
 
-<!--
-**Tornquist/Tornquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer living and working in Chicago.
 
-Here are some ideas to get you started:
+I'm currently at [Auterion][0] building out the Auterion Suite and am working on a
+yet-to-be-named [time analysis platform][1].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I was the CTO at [SkinIO][2] and co-founded [Uplink Sports][3] with my [brother][4].
+
+[0]: https://auterion.com
+[1]: https://nathantornquist.com/projects/time/
+[2]: https://skinio.com
+[3]: https://apps.apple.com/us/app/uplink-sports/id1110791566
+[4]: https://twitter.com/matttornquist
